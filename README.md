@@ -3,7 +3,7 @@
 The intention of this project is that we apply all the things we learned during the course and demonstrate the process of analyzing and deploying our findings.
 
 ## Blogpost
-todo
+https://kaique-c-oliveira.medium.com/applying-data-science-to-predict-customer-engagement-9c7cdba402f4
 
 ## Project Structure
 ~~~
