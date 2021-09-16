@@ -13,7 +13,7 @@ Notebook {
 ~~~
 
 ## Data Origin
-All the data used was provided by [Udacity](https://www.udacity.com/)
+All the data used was provided by [Udacity](https://www.udacity.com/) in partnership with Starbucks
 
 ## Libs
 
